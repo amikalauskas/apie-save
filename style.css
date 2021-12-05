@@ -1,0 +1,25 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: #C8B4D1
+
+
+
+}
+.center {
+  margin:auto;
+  width: 700px;
+  border: 20px solid #030303;
+  border-radius: 25px;
+  padding: 30px;
+  background: #3C626F;
+  font-size: 20px;
+  color: #C8B4D1;
+
+
+
+}
+.img {
+  width: 600px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px black;
+}
